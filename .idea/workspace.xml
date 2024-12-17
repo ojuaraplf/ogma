@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ab551fe-435d-4685-8160-996b2f578367" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/chamado/ListaChamado.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="191" column="77" lean-forward="true" selection-start-line="191" selection-start-column="77" selection-end-line="191" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/chamado/ListaChamado_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/modal/modalNovoChamado.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="310" column="27" lean-forward="true" selection-start-line="310" selection-start-column="27" selection-end-line="310" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/defaults/Defaults_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="97" lean-forward="true" selection-start-line="85" selection-start-column="23" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/defaults/Defaults.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="153" column="41" selection-start-line="153" selection-start-column="41" selection-end-line="153" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/chamado/ListaChamado.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data-toggle=&quot;tooltip&quot;</find>
+      <find>setInputTextHints</find>
+      <find>spanTitle</find>
+      <find>fetchCatalogoServico</find>
+      <find>arrayDeletedPlanoComunicaca</find>
+      <find>updateFase</find>
+      <find>fetchPro</find>
+      <find>comboboxAtividadesColaborador</find>
+      <find>fetchAtividadesReferenteColaborador</find>
+      <find>updateAtividadePorcentagem</find>
+      <find>fetchProjeto</find>
+      <find>Projeto</find>
+      <find>project</find>
+      <find>fetchproje</find>
+      <find>r4</find>
+      <find>updateProjeto</find>
+      <find>atividade</find>
+      <find>CriaProxOrdemATG</find>
+      <find>ANS</find>
+      <find>inputTextCHD_MomNovoStatus</find>
+      <find>CriaTemplateATG</find>
+      <find>PJT_ITEMCAS</find>
+      <find>inputTextCHD_MomAbertura</find>
+      <find>fetchAtividadesFase</find>
+      <find>toFixed</find>
+      <find>TOR</find>
+      <find>TIpoOrca</find>
+      <find>comboboxCliente</find>
+      <find>fetch</find>
+      <find>addAtividade</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/modal/modalChecklistItemDetalhes.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalChecklist.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalSelecionarApontamentoHorasFechamentoFinanceiro.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalDetalhesRevisao.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
+        <option value="$PROJECT_DIR$/application/views/consultoria/RevisaoMonitoramento.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalConfirmarConcluirRevisao.php" />
+        <option value="$PROJECT_DIR$/application/views/Home.php" />
+        <option value="$PROJECT_DIR$/application/models/consultoria/RelatorioAtividadesPendentes.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalApontarHorasDescricaoAtividade.php" />
+        <option value="$PROJECT_DIR$/application/views/consultoria/ApontarHoras.php" />
+        <option value="$PROJECT_DIR$/application/controllers/consultoria/ApontarHoras.php" />
+        <option value="$PROJECT_DIR$/application/models/consultoria/RevisaoMonitoramento_model.php" />
+        <option value="$PROJECT_DIR$/application/models/EditarProjeto_model.php" />
+        <option value="$PROJECT_DIR$/application/models/consultoria/ApontarHoras_model.php" />
+        <option value="$PROJECT_DIR$/application/views/include/headerTop.php" />
+        <option value="$PROJECT_DIR$/application/views/include/headerBottom.php" />
+        <option value="$PROJECT_DIR$/application/models/ListaProjeto_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/ListaProjeto.php" />
+        <option value="$PROJECT_DIR$/application/views/include/spinner.php" />
+        <option value="$PROJECT_DIR$/application/views/include/spinnerModal.php" />
+        <option value="$PROJECT_DIR$/application/controllers/DetalheProjeto.php" />
+        <option value="$PROJECT_DIR$/application/models/DetalheProjeto_model.php" />
+        <option value="$PROJECT_DIR$/application/views/servico/DetalheProjeto.php" />
+        <option value="$PROJECT_DIR$/application/controllers/EditarProjeto.php" />
+        <option value="$PROJECT_DIR$/application/views/servico/EditarProjeto.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalNovoProjeto.php" />
+        <option value="$PROJECT_DIR$/application/views/include/navbarHome.php" />
+        <option value="$PROJECT_DIR$/application/views/include/navbarFinanceiro.php" />
+        <option value="$PROJECT_DIR$/application/views/include/navbarFechamentoFinanceiro.php" />
+        <option value="$PROJECT_DIR$/application/views/include/navBarChamado.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalApontamentoHorasGlosaDetalhes.php" />
+        <option value="$PROJECT_DIR$/application/controllers/EditarFase.php" />
+        <option value="$PROJECT_DIR$/application/views/include/navbarProjeto.php" />
+        <option value="$PROJECT_DIR$/application/models/EditarFase_model.php" />
+        <option value="$PROJECT_DIR$/application/views/consultoria/RelatorioAtividadesPendentes.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/include/asidebar.php" />
+        <option value="$PROJECT_DIR$/application/models/defaults/Defaults_model.php" />
+        <option value="$PROJECT_DIR$/application/views/include/defaults.php" />
+        <option value="$PROJECT_DIR$/application/models/consultoria/RelatorioAtividadesPendentes_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/consultoria/RelatorioAtividadesPendentes.php" />
+        <option value="$PROJECT_DIR$/application/models/chamado/ListaChamado_model.php" />
+        <option value="$PROJECT_DIR$/application/views/servico/EditarFase.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalDetalhesGrupoAtividades.php" />
+        <option value="$PROJECT_DIR$/application/controllers/defaults/Defaults.php" />
+        <option value="$PROJECT_DIR$/application/controllers/chamado/ListaChamado.php" />
+        <option value="$PROJECT_DIR$/application/views/modal/modalNovoChamado.php" />
+        <option value="$PROJECT_DIR$/application/views/chamado/ListaChamado.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/DataTables/Bootstrap-4-4.1.1" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/css" />
+      <path value="$PROJECT_DIR$/vendor/DataTables/DataTables-1.10.18" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/bootstraptemplate/assets" />
+      <path value="$PROJECT_DIR$/vendor/bootstraptemplate/dist" />
+      <path value="$PROJECT_DIR$/vendor/DataTables/ColReorder-1.5.0" />
+      <path value="$PROJECT_DIR$/vendor/bootstraptemplate/html" />
+      <path value="$PROJECT_DIR$/vendor/DataTables/Responsive-2.2.2" />
+      <path value="$PROJECT_DIR$/vendor/DataTables/Buttons-1.5.6" />
+      <path value="$PROJECT_DIR$/vendor/trumbowyg/ui" />
+      <path value="$PROJECT_DIR$/vendor/trumbowyg/plugins" />
+      <path value="$PROJECT_DIR$/vendor/trumbowyg/langs" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1179" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="chamado" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="consultoria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="defaults" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="chamado" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="consultoria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="defaults" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="chamado" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="consultoria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="financeiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="modal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wDiscovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wDiscovery" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="servico" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/thiagosoares/Documents/WWW/wDiscovery/application/views/servico/EditarFase.php&#10;ogm_projeto&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/views/include" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/controllers/financeiro" />
+      <recent name="$PROJECT_DIR$/application/controllers/consultoria" />
+      <recent name="$PROJECT_DIR$/application/models/consultoria" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/views/include" />
+      <recent name="$PROJECT_DIR$/application/models/consultoria" />
+      <recent name="$PROJECT_DIR$/application/views/consultoria" />
+      <recent name="$PROJECT_DIR$/application/views/modal" />
+      <recent name="$PROJECT_DIR$/application/controllers/financeiro" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ab551fe-435d-4685-8160-996b2f578367" name="Default" comment="" />
+      <created>1553703543750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553703543750</updated>
+      <workItem from="1553703547353" duration="40000" />
+      <workItem from="1558537051320" duration="5959000" />
+      <workItem from="1558621345564" duration="20502000" />
+      <workItem from="1558702209430" duration="11865000" />
+      <workItem from="1558960367531" duration="159000" />
+      <workItem from="1558960576060" duration="20416000" />
+      <workItem from="1559042779315" duration="10587000" />
+      <workItem from="1559132483950" duration="9325000" />
+      <workItem from="1559221540479" duration="6045000" />
+      <workItem from="1559247402882" duration="3536000" />
+      <workItem from="1559310433435" duration="9907000" />
+      <workItem from="1559336408045" duration="622000" />
+      <workItem from="1559431288551" duration="353000" />
+      <workItem from="1559564851699" duration="663000" />
+      <workItem from="1559568058953" duration="6479000" />
+      <workItem from="1559580365104" duration="6107000" />
+      <workItem from="1559653021355" duration="16674000" />
+      <workItem from="1559735836077" duration="14485000" />
+      <workItem from="1559824039993" duration="15587000" />
+      <workItem from="1559910086843" duration="9649000" />
+      <workItem from="1560170640813" duration="7946000" />
+      <workItem from="1560256208994" duration="14594000" />
+      <workItem from="1560341706168" duration="12284000" />
+      <workItem from="1560428795455" duration="10952000" />
+      <workItem from="1560516352782" duration="10864000" />
+      <workItem from="1560775355902" duration="11874000" />
+      <workItem from="1560861830712" duration="13115000" />
+      <workItem from="1560948074072" duration="10931000" />
+      <workItem from="1560978422998" duration="938000" />
+      <workItem from="1561121150800" duration="8938000" />
+      <workItem from="1561378963241" duration="7761000" />
+      <workItem from="1561482635731" duration="7072000" />
+      <workItem from="1561555615636" duration="2000" />
+      <workItem from="1561556017598" duration="12000" />
+      <workItem from="1561556085905" duration="10607000" />
+      <workItem from="1561656043280" duration="2847000" />
+      <workItem from="1561661706876" duration="3295000" />
+      <workItem from="1561728323618" duration="8304000" />
+      <workItem from="1561980626709" duration="7086000" />
+      <workItem from="1562064779968" duration="13685000" />
+      <workItem from="1562150851355" duration="11877000" />
+      <workItem from="1562239019626" duration="7236000" />
+      <workItem from="1562326085117" duration="12259000" />
+      <workItem from="1562585877050" duration="9252000" />
+      <workItem from="1562672096670" duration="2667000" />
+      <workItem from="1562757584828" duration="8769000" />
+      <workItem from="1562842618884" duration="7425000" />
+      <workItem from="1562930628574" duration="8400000" />
+      <workItem from="1563199116307" duration="8827000" />
+      <workItem from="1563276468929" duration="10919000" />
+      <workItem from="1563371223959" duration="4146000" />
+      <workItem from="1563449957123" duration="1548000" />
+      <workItem from="1563541325587" duration="673000" />
+      <workItem from="1563800426266" duration="4000000" />
+      <workItem from="1563881101532" duration="8068000" />
+      <workItem from="1563976347414" duration="3377000" />
+      <workItem from="1564053030975" duration="7251000" />
+      <workItem from="1564150266755" duration="7374000" />
+      <workItem from="1564407136199" duration="11762000" />
+      <workItem from="1564488807843" duration="8026000" />
+      <workItem from="1564572843754" duration="10493000" />
+      <workItem from="1564662640682" duration="3967000" />
+      <workItem from="1564745758660" duration="6219000" />
+      <workItem from="1565019512980" duration="7132000" />
+      <workItem from="1565097257423" duration="8499000" />
+      <workItem from="1565178726121" duration="9641000" />
+      <workItem from="1565267148518" duration="4370000" />
+      <workItem from="1565287121646" duration="4595000" />
+      <workItem from="1565352494323" duration="11768000" />
+      <workItem from="1565694981887" duration="15873000" />
+      <workItem from="1565746020297" duration="8445000" />
+      <workItem from="1565787339790" duration="4343000" />
+      <workItem from="1565835978758" duration="827000" />
+      <workItem from="1565869160446" duration="1301000" />
+      <workItem from="1565870937514" duration="12914000" />
+      <workItem from="1565919778309" duration="1957000" />
+      <workItem from="1565957460727" duration="12323000" />
+      <workItem from="1566007788975" duration="954000" />
+      <workItem from="1566071023328" duration="1086000" />
+      <workItem from="1566149653530" duration="4173000" />
+      <workItem from="1566210883914" duration="1406000" />
+      <workItem from="1566212406455" duration="1410000" />
+      <workItem from="1566217630549" duration="9224000" />
+      <workItem from="1566265067920" duration="1801000" />
+      <workItem from="1566301717944" duration="6322000" />
+      <workItem from="1566386678622" duration="12820000" />
+      <workItem from="1566440563662" duration="1153000" />
+      <workItem from="1566482752007" duration="7585000" />
+      <workItem from="1566559638422" duration="10313000" />
+      <workItem from="1566817549016" duration="12020000" />
+      <workItem from="1566907512140" duration="12836000" />
+      <workItem from="1566945739029" duration="1837000" />
+      <workItem from="1566991395581" duration="17598000" />
+      <workItem from="1567079182052" duration="11299000" />
+      <workItem from="1567169327500" duration="6510000" />
+      <workItem from="1567424273865" duration="13514000" />
+      <workItem from="1567510917113" duration="9787000" />
+      <workItem from="1567541985897" duration="80000" />
+      <workItem from="1567597134915" duration="9387000" />
+      <workItem from="1567655005430" duration="606000" />
+      <workItem from="1567687261885" duration="14540000" />
+      <workItem from="1567774028236" duration="9648000" />
+      <workItem from="1567821160671" duration="2189000" />
+      <workItem from="1567862806985" duration="11539000" />
+      <workItem from="1568026988276" duration="15791000" />
+      <workItem from="1568081005448" duration="873000" />
+      <workItem from="1568113860052" duration="4272000" />
+      <workItem from="1568215405405" duration="2186000" />
+      <workItem from="1568250713912" duration="3122000" />
+      <workItem from="1568284679854" duration="12348000" />
+      <workItem from="1568375290886" duration="5359000" />
+      <workItem from="1568635562554" duration="5961000" />
+      <workItem from="1568717561762" duration="4341000" />
+      <workItem from="1568805552401" duration="5963000" />
+      <workItem from="1568900392923" duration="4321000" />
+      <workItem from="1568979958785" duration="6973000" />
+      <workItem from="1569021030364" duration="865000" />
+      <workItem from="1569120320245" duration="2827000" />
+      <workItem from="1569178772534" duration="1200000" />
+      <workItem from="1569243172077" duration="5936000" />
+      <workItem from="1569266484117" duration="2639000" />
+      <workItem from="1569279080742" duration="676000" />
+      <workItem from="1569325928808" duration="7384000" />
+      <workItem from="1569375390460" duration="790000" />
+      <workItem from="1569411715057" duration="6536000" />
+      <workItem from="1569500002373" duration="15038000" />
+      <workItem from="1569585239191" duration="9207000" />
+      <workItem from="1569762103549" duration="4255000" />
+      <workItem from="1569778927137" duration="863000" />
+      <workItem from="1569846777830" duration="10223000" />
+      <workItem from="1569928576018" duration="13908000" />
+      <workItem from="1569963430325" duration="182000" />
+      <workItem from="1570014084123" duration="5796000" />
+      <workItem from="1570103088896" duration="3585000" />
+      <workItem from="1570141901762" duration="670000" />
+      <workItem from="1570191004645" duration="8452000" />
+      <workItem from="1570331570584" duration="930000" />
+      <workItem from="1570451930461" duration="6197000" />
+      <workItem from="1570535611798" duration="4996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="976892000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="992" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26862028" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3009768" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalApontarHorasDescricaoAtividade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="82" column="7" selection-start-line="75" selection-start-column="4" selection-end-line="82" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/consultoria/ApontarHoras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/consultoria/RelatorioApontamentoHoras_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-343">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/consultoria/ApontarHoras_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/headerTop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/headerBottom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="82" column="56" selection-start-line="82" selection-start-column="56" selection-end-line="82" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/ListaProjeto_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/ListaProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/spinnerModal.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/include/spinner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/consultoria/RevisaoMonitoramento_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="71" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/consultoria/RevisaoMonitoramento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="77" selection-start-line="77" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/DetalheProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/servico/DetalheProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="240" column="42" selection-start-line="240" selection-start-column="42" selection-end-line="240" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/consultoria/ApontarHoras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="317" column="66" selection-start-line="317" selection-start-column="59" selection-end-line="317" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/EditarProjeto_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="165" column="5" lean-forward="true" selection-start-line="161" selection-start-column="16" selection-end-line="165" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/servico/EditarProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="1081" column="13" lean-forward="true" selection-start-line="1081" selection-start-column="13" selection-end-line="1081" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#5;n#tr#0;n#thead#0;n#table#0;n#div#1;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#5;n#tr#0;n#thead#0;n#table#0;n#div#2;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#3;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#3;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#3;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#3;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/EditarProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="280" column="58" selection-start-line="280" selection-start-column="56" selection-end-line="280" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/navBarChamado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="67" lean-forward="true" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/navbarFechamentoFinanceiro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/navbarFinanceiro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/navbarHome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalApontamentoHorasGlosaDetalhes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="51" column="50" lean-forward="true" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalNovoProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="158" column="38" lean-forward="true" selection-start-line="158" selection-start-column="38" selection-end-line="160" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/EditarFase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/navbarProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/servico/ListaProjeto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalDetalhesApontamentoHoras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3122">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/consultoria/RelatorioApontamentoHoras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="36" column="47" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="36" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/DetalheProjeto_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/EditarFase_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-908">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Financeiro_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/consultoria/RevisaoMonitoramento.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="118" column="2" lean-forward="true" selection-start-line="98" selection-start-column="11" selection-end-line="118" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/consultoria/RelatorioAtividadesPendentes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="270" column="42" lean-forward="true" selection-start-line="270" selection-start-column="42" selection-end-line="270" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/defaults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="58" column="76" lean-forward="true" selection-start-line="58" selection-start-column="76" selection-end-line="58" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/asidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="48" column="81" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/consultoria/RelatorioAtividadesPendentes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/consultoria/RelatorioAtividadesPendentes_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalChecklist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalNovaFase.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalDetalhesGrupoAtividades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/servico/EditarFase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="239" column="67" lean-forward="true" selection-start-line="238" selection-start-column="22" selection-end-line="239" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="e#119#125#0" expanded="true" />
+            <element signature="e#125#131#0" expanded="true" />
+            <element signature="e#131#137#0" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="e#120#126#0" expanded="true" />
+            <element signature="e#126#132#0" expanded="true" />
+            <element signature="e#132#138#0" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="e#121#127#0" expanded="true" />
+            <element signature="e#127#133#0" expanded="true" />
+            <element signature="e#133#139#0" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#57#63#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+            <element signature="e#69#75#0" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/defaults/Defaults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="153" column="41" selection-start-line="153" selection-start-column="41" selection-end-line="153" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/modal/modalNovoChamado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="310" column="27" lean-forward="true" selection-start-line="310" selection-start-column="27" selection-end-line="310" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/defaults/Defaults_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="97" lean-forward="true" selection-start-line="85" selection-start-column="23" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/chamado/ListaChamado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/chamado/ListaChamado_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/chamado/ListaChamado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="191" column="77" lean-forward="true" selection-start-line="191" selection-start-column="77" selection-end-line="191" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

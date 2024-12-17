@@ -1,0 +1,4 @@
+/*Lista Projeto*/
+#tableProjetos tr td {
+	cursor: pointer;
+}

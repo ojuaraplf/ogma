@@ -1,0 +1,69 @@
+<?php
+
+class FmcLista_model extends CI_Model
+{
+
+    public function fetchFmcPrePagar($pCBRCodigo, $pCLICodigo, $pPJTCodigo, $pATGCodigo, $pAgrupaCBR, $pAgrupaCLI, $pAgrupaPJT, $pAgrupaATG, $pAgrupaLCT, $pDataDe, $pDataAte )
+    {
+
+        $aCBRCodigo = $pCBRCodigo == 0 ? NULL : $pCBRCodigo;
+        $aCLICodigo = $pCLICodigo == 0 ? NULL : $pCLICodigo;
+        $aPJTCodigo = $pPJTCodigo == 0 ? NULL : $pPJTCodigo;
+        $aATGCodigo = $pATGCodigo == 0 ? NULL : $pATGCodigo;
+        $aAgrupaCBR = $pAgrupaCBR;
+        $aAgrupaCLI = $pAgrupaCLI;
+        $aAgrupaPJT = $pAgrupaPJT;
+        $aAgrupaATG = $pAgrupaATG;
+        $aAgrupaLCT = $pAgrupaLCT;
+        $aDataDe = $pDataDe == "0" ? NULL : $pDataDe;
+        $aDataAte = $pDataAte == "0" ? NULL : $pDataAte;
+
+        $query = $this->db->query("CALL ogrh_FMC_PrePagar(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", array( $aCBRCodigo, $aCLICodigo, $aPJTCodigo, $aATGCodigo, $aAgrupaCBR, $aAgrupaCLI, $aAgrupaPJT, $aAgrupaATG, $aAgrupaLCT, $aDataDe, $aDataAte ));
+        
+        $this->db->close();
+        if ($query->num_rows() > 0) {
+            return $query->result_array();
+        } else {
+            return array();
+        }
+    }
+
+    public function fetchAptmtosDaAtg($pATGCodigo, $pLCTCodigo )
+    {        
+        $query = $this->db->query("CALL ogfn_FMG_AptmtosDaAtg(?, ?)", array( $pATGCodigo, $pLCTCodigo ));
+        
+        $this->db->close();
+        if ($query->num_rows() > 0) {
+            return $query->result_array();
+        } else {
+            return array();
+        }
+    }
+    
+    public function NewFMC($data)
+    {
+        $this->db->insert("ogfn_FMC_FechamentoMesConsultor", $data);
+        $insert_id = $this->db->insert_id();
+        return  $insert_id;
+    }
+
+    public function NewFMCiRow($data)
+    {
+        foreach ($data as $value){
+            $this->db->insert("ogfn_FMCi_FechtoMesCbrItem", $value);
+        }
+        $query = $this->db->query("SELECT FMCi_FMCCodigo FROM ogfn_FMCi_FechtoMesCbrItem WHERE FMCi_FMCCodigo = ?", array($data[0]["FMCi_FMCCodigo"]));
+        return $query->num_rows();
+        // print_r($data[0]["FMCi_FMCCodigo"]);
+    }
+
+    public function NewFMGRow($data)
+    {
+        foreach ($data as $value){
+            $this->db->insert("ogfn_FMG_FechtoMesCbrGlosa", $value);
+        }
+        return true;
+        // print_r($data[0]["FMCi_FMCCodigo"]);
+    }
+
+}
